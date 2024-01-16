@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	core "github.com/diphantxm/ozon-api-client"
+	core "github.com/zloyleshiy/ozon-api-client"
 )
 
 func TestGetStocksInfo(t *testing.T) {

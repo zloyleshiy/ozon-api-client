@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	core "github.com/diphantxm/ozon-api-client"
+	core "github.com/zloyleshiy/ozon-api-client"
 )
 
 type Polygons struct {
